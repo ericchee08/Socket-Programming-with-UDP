@@ -16,9 +16,9 @@ UDP allows two or more processes running on different hosts to communicate. UDP 
 
 ### Technologies 
 
-* Java programming language
+* [Java SE 11](https://www.oracle.com/uk/java/technologies/javase-jdk11-downloads.html)
 * Terminal/Command Line
-* [Wireshark] (https://www.wireshark.org/download.html)
+* [Wireshark](https://www.wireshark.org/download.html)
 
 ### Local setup guide
 
