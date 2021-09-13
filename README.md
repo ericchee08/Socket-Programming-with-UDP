@@ -14,6 +14,12 @@ UDP allows two or more processes running on different hosts to communicate. UDP 
 
 <img width="881" alt="Screenshot 2021-09-13 at 19 34 26" src="https://user-images.githubusercontent.com/58150120/133138000-09cffede-299f-4e05-8e60-16cc67c26776.png">
 
+### Technologies 
+
+* Java programming language
+* Terminal/Command Line
+* Wireshark [https://www.wireshark.org/download.html]
+
 ### Local setup guide
 
 A separate CMD prompt/terminal window is needed for the server and the client. 
