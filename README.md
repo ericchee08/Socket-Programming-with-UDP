@@ -10,5 +10,10 @@ UDP allows two or more processes running on different hosts to communicate. UDP 
 4. The server sends the modified line out of its socket to the client.
 5. The client reads the modified line from its socket and prints it.
 
+### The following diagram highlights the main activity of the UDP communication over a connectionless transport service.
+
 <img width="881" alt="Screenshot 2021-09-13 at 19 34 26" src="https://user-images.githubusercontent.com/58150120/133138000-09cffede-299f-4e05-8e60-16cc67c26776.png">
+
+<img width="1003" alt="Screenshot 2021-09-13 at 19 42 37" src="https://user-images.githubusercontent.com/58150120/133139098-2e0c9fb4-a46b-47b1-87be-7e77f910631c.png">
+
 
